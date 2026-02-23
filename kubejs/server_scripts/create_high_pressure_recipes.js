@@ -23,6 +23,3 @@ index 0000000000000000000000000000000000000000..04d9c2a86c32aaf9b11c4492d964b314
 +    .superheated()
 +    .id('create_high_pressure:compacting/diamond_from_graphite')
 +})
- 
-EOF
-)
