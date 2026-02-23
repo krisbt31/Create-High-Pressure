@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial Create High Pressure scripts"
+git branch -M main
+git remote add origin https://github.com/kris31/create-high-pressure.git
+git push -u origin main
